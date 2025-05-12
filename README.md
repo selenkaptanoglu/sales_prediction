@@ -1,1 +1,2 @@
-# sales_prediction
+# Sales Prediction
+<p>Linear Regresyon kullanılarak satış tahmini yapılmıştır.</p>
